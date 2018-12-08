@@ -24,6 +24,21 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 25px 0;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+
+
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
