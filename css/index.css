@@ -82,6 +82,8 @@ p {
     line-height: 1.4;
 }
 
+
+
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -212,6 +214,7 @@ nav {
     justify-content: space-between;
     align-items: flex-end;
     margin: 30px 0 30px 0;
+    width: 100%
  }
  a {
     text-decoration: none;
@@ -269,4 +272,5 @@ button {
     text-decoration: none;
     font-size: 16px;
     margin: 10px 0 10px 0;
+    width: 42%
 }
